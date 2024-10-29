@@ -1,0 +1,59 @@
+❯ pacman -Qs font
+
+local/adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-2
+    Monospaced font family for user interface and coding
+    environments
+local/cantarell-fonts 1:0.303.1-2
+    Humanist sans serif font
+local/fluidsynth 2.3.7-1 (pro-audio)
+    A real-time software synthesizer based on the SoundFont 2
+    specifications
+local/font-manager 0.9.0-2
+    A simple font management application for GTK+ Desktop
+    Environments
+local/fontconfig 2:2.15.0-2
+    Library for configuring and customizing font access
+local/freetype2 2.13.3-1
+    Font rasterization library
+local/gsfonts 20200910-4
+    (URW)++ base 35 font set
+local/libfontenc 1.1.8-1
+    X11 font encoding library
+local/libxfont2 2.0.7-1
+    X11 font rasterisation library
+local/libxft 2.3.8-2
+    FreeType-based font drawing library for X
+local/noto-fonts 1:24.9.1-1
+    Google Noto TTF fonts
+local/noto-fonts-cjk 20230817-2
+    Google Noto CJK fonts
+local/noto-fonts-emoji 1:2.047-1
+    Google Noto emoji fonts
+local/otf-font-awesome 6.6.0-1
+    Iconic font designed for Bootstrap
+local/siji-git r23.c691f20-2
+    Iconic bitmap font based on stlarch with additional glyphs
+local/ttf-all-the-icons 5.0.0-1
+    Icon font for all-the-icons.el (A utility package to collect
+    various Icon Fonts and propertize them within Emacs.)
+local/ttf-jetbrains-mono-nerd 3.2.1-2 (nerd-fonts)
+    Patched font JetBrains Mono from nerd fonts library
+local/ttf-nerd-fonts-symbols 3.2.1-1 (nerd-fonts)
+    High number of extra glyphs from popular 'iconic fonts'
+local/ttf-nerd-fonts-symbols-common 3.2.1-1
+    High number of extra glyphs from popular 'iconic fonts' (common
+    files)
+local/ttf-twemoji 15.1.0-1
+    Truetype builds of Twemoji; Twitter Color Emoji for everyone.
+local/ttf-unifont 16.0.01-1
+    TrueType version of the GNU Unifont
+local/woff2 1.0.2-5
+    Web Open Font Format 2 reference implementation
+local/xorg-fonts-alias-misc 1.0.5-1
+    X.org font alias files - misc font familiy
+local/xorg-fonts-encodings 1.1.0-1 (xorg-fonts xorg)
+    X.org font encoding files
+local/xorg-fonts-misc 1.0.4-2
+    X.org misc fonts
+local/xorg-mkfontscale 1.2.3-1 (xorg-apps xorg)
+    Create an index of scalable font files for X

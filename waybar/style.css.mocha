@@ -1,0 +1,13 @@
+@import "mocha.css";
+/* 导入主题文件 */
+
+/* 全局样式，引用颜色变量 */
+* {
+  color: @text;
+}
+
+window#waybar {
+  /* 使用 GTK3 的 CSS 函数 */
+  background-color: shade(@base, 0.9);
+  border: 2px solid alpha(@crust, 0.3);
+}
